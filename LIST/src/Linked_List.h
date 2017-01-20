@@ -12,7 +12,7 @@ class List_node{
 	List_node<Type> * _pNext;
 };
 
-
+CAZZUDUHCSDOUVJNREA
 template< class Type >
 class Linked_list : public List<Type, List_node<Type>*>{
  public:
